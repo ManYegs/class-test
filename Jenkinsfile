@@ -1,3 +1,5 @@
+stage('Clone Repository')
+{
 checkout scm
 }
 
