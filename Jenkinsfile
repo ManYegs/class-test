@@ -22,4 +22,4 @@ sh "docker push manyegs/docker_test:latest"
 stage('Apply changes to the environment') {
 sh "ls -l"
 }
-
+}
